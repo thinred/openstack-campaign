@@ -2,7 +2,7 @@
 repos:
   repo_paths:
     # openstack git repos
-    https://github.com/puppetlabs/puppetlabs-nova: nova
+    https://github.com/thinred/puppet-nova.git: nova
     https://github.com/puppetlabs/puppetlabs-glance: glance
     https://github.com/puppetlabs/puppetlabs-swift: swift
     https://github.com/puppetlabs/puppetlabs-keystone: keystone

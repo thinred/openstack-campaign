@@ -1,6 +1,6 @@
 [submodule "modules/nova"]
 	path = modules/nova
-	url = https://github.com/puppetlabs/puppetlabs-nova
+	url = https://github.com/thinred/puppet-nova.git
 [submodule "modules/glance"]
 	path = modules/glance
 	url = https://github.com/puppetlabs/puppetlabs-glance
