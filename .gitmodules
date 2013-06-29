@@ -12,7 +12,7 @@
 	url = https://github.com/puppetlabs/puppetlabs-keystone
 [submodule "modules/horizon"]
 	path = modules/horizon
-	url = https://github.com/puppetlabs/puppetlabs-horizon
+	url = https://github.com/thinred/puppet-horizon.git
 [submodule "modules/rabbitmq"]
 	path = modules/rabbitmq
 	url = https://github.com/puppetlabs/puppetlabs-rabbitmq
